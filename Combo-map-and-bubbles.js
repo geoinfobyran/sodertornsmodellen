@@ -55,7 +55,7 @@ VIZABI_MODEL = {
       },
       "hook_centroid": {
         "use": "property",
-        "which": "baskod2010",
+        "which": "baskod2000",
         "_important": true
       },
       "color_map": {
