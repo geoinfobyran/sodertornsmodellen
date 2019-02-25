@@ -29,7 +29,7 @@ VIZABI_MODEL = {
       },
       "hook_centroid": {
         "use": "property",
-        "which": "baskod2000",
+        "which": "baskod2010",
         "_important": true
       },
       "size": {
