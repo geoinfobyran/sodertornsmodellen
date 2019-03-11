@@ -37,7 +37,7 @@ VIZABI_MODEL = {
         "scaleType": "linear"
       },
       "size": {
-        "which": "population_aged_gt_20",
+        "which": "population_total",
         "use": "indicator",
         "scaleType": "linear",
         "extent": [0, 1],
