@@ -33,7 +33,7 @@ VIZABI_MODEL = {
         "_important": true
       },
       "size": {
-        "which": "population_20xx_12_31",
+        "which": "population_total",
         "use": "indicator",
         "scaleType": "linear",
         "extent": [0, 0.4],

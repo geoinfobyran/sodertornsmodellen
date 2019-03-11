@@ -39,7 +39,7 @@ VIZABI_MODEL = {
         "zoomedMax": "700000"
       },
       "size": {
-        "which": "population_aged_gt_20",
+        "which": "population_total",
         "use": "indicator",
         "scaleType": "linear",
         "extent": [0, 0.4],
@@ -55,7 +55,7 @@ VIZABI_MODEL = {
       },
       "hook_centroid": {
         "use": "property",
-        "which": "baskod2000",
+        "which": "baskod2010",
         "_important": true
       },
       "color_map": {
